@@ -35,6 +35,7 @@ boto3 @ file:///opt/conda/conda-bld/boto3_1649078879353/work
 botocore @ file:///opt/conda/conda-bld/botocore_1649076662316/work
 Bottleneck @ file:///C:/ci/bottleneck_1648010904582/work
 brotlipy==0.7.0
+build==0.8.0
 cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
 certifi==2021.10.8
 cffi @ file:///C:/ci_310/cffi_1642682485096/work
@@ -189,10 +190,12 @@ partd @ file:///opt/conda/conda-bld/partd_1647245470509/work
 pathlib @ file:///Users/ktietz/demo/mc3/conda-bld/pathlib_1629713961906/work
 pathspec==0.7.0
 patsy==0.5.2
+pep517==0.13.0
 pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==9.0.1
+pip-tools==6.8.0
 pkginfo @ file:///tmp/build/80754af9/pkginfo_1643162084911/work
 plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
 pluggy @ file:///C:/ci/pluggy_1648024580010/work
@@ -208,7 +211,7 @@ pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 py @ file:///opt/conda/conda-bld/py_1644396412707/work
 pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
 pyasn1-modules==0.2.8
-pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1615748559966/work
+pycodestyle==2.7.0
 pycosat==0.6.3
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pyct @ file:///C:/ci/pyct_1613411728548/work
