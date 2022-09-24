@@ -1,3 +1,4 @@
+import django
 from django.shortcuts import render , redirect
 import uuid
 from .models import Url
