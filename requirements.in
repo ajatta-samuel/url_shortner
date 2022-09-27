@@ -1,2 +1,3 @@
 pycodestyle
-
+mccabe
+django==4.1
